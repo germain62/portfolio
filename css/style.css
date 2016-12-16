@@ -1,0 +1,119 @@
+*{
+  margin : 0px;
+  padding : 0px;
+}
+
+#haut{
+  background-color:rgba(91, 154, 204, 1);
+  /*height: 100px;*/
+  background-size: cover;
+
+  border: none;
+}
+
+#pink span{
+  color:#F64459;
+  padding-left: 10%;
+}
+#black span {
+  color:black;
+  padding-left: 10%;
+}
+h4{
+  text-shadow: 2px 2px black;
+}
+#haut a {
+  padding-top: 40px;
+  color : white;
+
+  font-size: 20px;
+}
+
+/*.navbar-nav ul{
+  display: inline-block;
+  float: none;
+}
+.navbar-nav li{
+  float: none;
+  text-align: center;
+}*/
+.navbar img {
+  margin-top:20px;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .open > a:hover{
+  background: transparent;
+}
+
+
+#home{
+  margin-top:100px;
+  padding-bottom: 30px;
+}
+.row h1 , p{
+  color : rgb(95, 130, 198);
+
+}
+#imageHome{
+  margin-top: 200px;
+}
+.carousel a{
+
+  margin-top: 20%;
+}
+#portfolio{
+  padding-bottom: 30px;
+  background-color: rgb(164, 199, 224);
+}
+#carousel-example-generic {
+  height: 40%;
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+
+}
+#about img {
+  padding-top: 30px
+}
+#about p {
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+#about{
+  padding-bottom: 30px;
+  padding-bottom: 30px;
+}
+textarea{
+  resize: none;
+}
+form{
+  margin-top: 30px;
+}
+iframe{
+  margin-left: 13%;
+}
+#contact ul{
+  margin-left: 15%;
+  margin-top: 30px;
+}
+#contact{
+  background-color: rgb(164, 199, 224);
+}
+#comment{
+  padding: 10px;
+  position: fixed;
+  bottom: 10%;
+  right: 0;
+  z-index: 1;
+}
+.footer{
+  background-color: rgba(91, 154, 204, 1);
+}
+.footer p {
+  color:white;
+}
+.footer a {
+color: white;
+}

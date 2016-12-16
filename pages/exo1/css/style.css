@@ -1,0 +1,102 @@
+.rowPadding {
+  padding-top: 40px;
+}
+.navbar {
+  background-color: #3B5998 ;
+  color : #FFF;
+}
+.collapse{
+  background-color: #3B5998;
+}
+#navbar .navbar a {
+  background-color: #3B5998;
+}
+#navbar{
+  background-color: #3B5998 ;
+}
+.prenom {
+  background-color: #3B5998;
+  padding-right: 20px;
+  padding-top: 18px;
+}
+.photo {
+  background-size: contain;
+  height: 50px;
+
+}
+.dropdown-menu a:hover , a:visited{
+  background-color: #3B5998 !important ;
+  color : #FFF !important;
+}
+.dropdown-menu {
+  background-color: #3B5998 ;
+  color : #FFF ;
+}
+.container-fluid:nth-child(2) {
+  padding-top: 75px;
+  background-color: #DBE5E6 ;
+}
+.photogermain {
+  height: 200px;
+  padding-top: 30px;
+
+
+}
+.presentation {
+  background-color: #FFF;
+  text-align: center;
+}
+
+.presentation h1 , h2{
+  color : grey;
+}
+.titrePrenom {
+  padding-left: 20px;
+}
+.fa {
+  margin-right: 50px;
+  margin-top: 20px;
+
+}
+.encadre {
+  margin-top: 30px;
+  min-height: 300px;
+  background-color: white;
+  padding: 10px;
+}
+textarea{
+  width: 800px;
+  height: 100px;
+  resize: none;
+}
+.titreEncadre{
+  background-color: grey;
+}
+h3 {
+  background-color: grey;
+}
+
+
+.footer{
+  background-color:#DBE5E6 ;
+
+
+}
+.footer p, .footer i  {
+  color : #3B5998;
+}
+
+/* helene */
+
+.persoNav{
+  text-align: center;
+  background-color: #3B5998;
+  color: #FFF;
+  padding: 5px;
+}
+.persoNav i {
+  color : #FFF;
+}
+h1{
+  color : white;
+}
